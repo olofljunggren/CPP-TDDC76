@@ -1,0 +1,35 @@
+Level-ID:
+Level_id a -> level_a.csv
+
+Object ID:
+0	Explosive
+1       Tank
+2       Bullet
+3       Powerup
+4       Block
+5       Bouncing Bullet
+
+
+Powerup ID:
+0	   None
+1       Speed
+2       Health
+3       Shield
+4       Splitter shot
+5       Rapid fire
+6       Explosive shot
+7       Bouncing Bullet
+
+
+State ID:
+0	  Menu state
+1	  Game State
+2	  Pause state
+3     Settings state
+4     Control menu state
+
+Tank ID:
+tank_id 1 -> tank nr. 1
+
+set_position(old_position.at(0), old_position.at(1));
+        set_angle(old_angle);

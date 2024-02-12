@@ -1,0 +1,6 @@
+block_width 64
+block_height 45
+splitter_powerup_num_projectiles 5
+splitter_powerup_angle_spread_degrees 60
+powerup_delay_seconds 4
+max_powerups 15

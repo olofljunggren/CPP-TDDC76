@@ -1,0 +1,3 @@
+health 1
+velocity 0
+angle_velocity 10

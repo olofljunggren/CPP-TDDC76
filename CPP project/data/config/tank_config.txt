@@ -1,0 +1,14 @@
+max_tank_health 100
+max_tank_shield_health 100
+tank_health 100
+tank_shield_health 50
+tank_movement_speed 180
+tank_rotation_speed 150
+tank_max_shoot_delay 0.8
+default_powerup_duration 8
+speed_powerup_speed 1.8
+speed_powerup_rotation_speed 1.4
+health_powerup_increase 50
+shield_powerup_increase 50
+rapidfire_powerup_max_shoot_delay 0.15
+max_invulnerable_duration 1.7

@@ -1,0 +1,7 @@
+health 1
+bullet_damage 40
+bullet_velocity 500
+explosive_ammo_damage 70
+explosive_ammo_range 60
+explosive_ammo_velocity 300
+allowed_bounces 5

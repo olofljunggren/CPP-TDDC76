@@ -1,0 +1,11 @@
+a.out
+UML_diagram_v3.drawio
+sfml_v9.cc
+sfml_basic
+suppressions.txt
+.vscode/c_cpp_properties.json
+.DS_Store
+build/*.o
+build/ClashOfTanks
+play
+*.orig

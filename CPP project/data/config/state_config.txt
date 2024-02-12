@@ -1,0 +1,5 @@
+menu_screen_width 640
+menu_screen_height 700
+game_screen_width 1920
+game_screen_height 1080
+fps_font_size 1.0
